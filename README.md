@@ -1,2 +1,2 @@
 # made-in-tanzania
-A curation of awesome security tools and security projects developed by Tanzanian Cybersecurity Enthusiasts
+A curation of awesome security tools ,exploits and security projects developed by Tanzanian Cybersecurity Enthusiasts
