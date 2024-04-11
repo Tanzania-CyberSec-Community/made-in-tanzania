@@ -1,0 +1,19 @@
+@import url("https://fonts.cdnfonts.com/css/space-grotesk");
+
+:root {
+  font-family: "Space Grotesk", monospace;
+}
+
+.banner {
+  width: 100%;
+}
+
+.nav-menu {
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  margin: 0 20px;
+  flex-wrap: wrap;
+}
