@@ -42,6 +42,9 @@
 ## <a name="P"> </a>P
 - [Param-Ninja](https://github.com/urchinsec/param-ninja) - 🖥️ An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
+## <a name="U"> </a>U
+- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)
+
 ## <a name="Z"> </a>Z
 
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
