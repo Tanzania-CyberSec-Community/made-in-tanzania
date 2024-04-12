@@ -36,8 +36,11 @@
 </p>
 
 ## <a name="A"> </a>A
-
+- [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
+
+## <a name="P"> </a>P
+- [Param-Ninja](https://github.com/urchinsec/param-ninja) - 🖥️ An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 ## <a name="Z"> </a>Z
 
