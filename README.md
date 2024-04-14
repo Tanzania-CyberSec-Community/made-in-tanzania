@@ -39,6 +39,9 @@
 - [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
 
+## <a name="D"> </a>D
+- [DDOS TOOL ]([https://github.com/urchinsec/urchinshel]) - 🖥️ A simple ddos tool written in python3. **By [@alien-keric](https://github.com/alien-keric)**
+
 ## <a name="G"> </a>G
 - [Gallery3D Tecno Exploit](https://github.com/tahaafarooq/gallery3d-tecno-exploit) - 💀 An automated exploit script to extract hidden images from Tecno Camon X. **By [@tahaafarooq](https://github.com/tahaafarooq)** 
 
@@ -63,5 +66,3 @@
 
 <img src="https://i.imgur.com/Sc92VRC.jpeg" class="banner">
 
-## <a name="U"> </a>U
-- [DDOS TOOL ]([https://github.com/urchinsec/urchinshel]) - 🖥️ A simple ddos tool written in python3. **By [@alien-keric](https://github.com/alien-keric)**
