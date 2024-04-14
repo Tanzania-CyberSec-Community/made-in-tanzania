@@ -39,6 +39,9 @@
 - [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
 
+## <a name="G"> </a>G
+- [Gallery3D Tecno Exploit](https://github.com/tahaafarooq/gallery3d-tecno-exploit) - 💀 An automated exploit script to extract hidden images from Tecno Camon X. **By [@tahaafarooq](https://github.com/tahaafarooq)** 
+
 ## <a name="P"> </a>P
 - [Param-Ninja](https://github.com/urchinsec/param-ninja) - 🖥️ An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
@@ -46,7 +49,7 @@
 - [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)**
 
 ## <a name="W"> </a>W
-- [Werkzeug-Hash-Cracker](https://github.com/tahaafarooq/werkzeug-hash-cracker) - 🖥️ A script to crack werkzeug.security generated hashes . **By [@tahaafarooq](https://github.com/tahaafarooq)**
+- [Werkzeug Hash Cracker](https://github.com/tahaafarooq/werkzeug-hash-cracker) - 🖥️ A script to crack werkzeug.security generated hashes . **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 ## <a name="Z"> </a>Z
 
