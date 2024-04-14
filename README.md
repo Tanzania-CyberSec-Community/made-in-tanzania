@@ -48,6 +48,10 @@
 ## <a name="P"> </a>P
 - [Param-Ninja](https://github.com/urchinsec/param-ninja) - 🖥️ An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
+## <a name="P"> </a>P
+- [Press-Enum](https://github.com/KharimMchatta/press-enum) - This is a tool that is used to scans for usernames on wordpress sites in various places like rest api, author archive, feeds, sitemap xml and xmlrpc. **By [@Kharim Mchatta](https://github.com/KharimMchatta)**
+<!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
+
 ## <a name="S"> </a>S
 - [Solar-Putty-4.0.0.47 Decryptor](https://github.com/tahaafarooq/Solar-Putty-4.0.0.47-decryptor) - 💀 A program that decrypts Solar-PuTTY session files holding credentials for the hosts. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
