@@ -55,6 +55,10 @@
 ## <a name="S"> </a>S
 - [Solar-Putty-4.0.0.47 Decryptor](https://github.com/tahaafarooq/Solar-Putty-4.0.0.47-decryptor) - 💀 A program that decrypts Solar-PuTTY session files holding credentials for the hosts. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
+## <a name="S"> </a>S
+- [Substat](https://github.com/KharimMchatta/substat) - This is a tool that is used to enumerate for subdomains. **By [@Kharim Mchatta](https://github.com/KharimMchatta)**
+<!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
+
 ## <a name="U"> </a>U
 - [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)**
 
