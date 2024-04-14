@@ -45,6 +45,9 @@
 ## <a name="U"> </a>U
 - [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)**
 
+## <a name="W"> </a>W
+- [Werkzeug-Hash-Cracker](https://github.com/tahaafarooq/werkzeug-hash-cracker) - 🖥️ A script to crack werkzeug.security generated hashes . **By [@tahaafarooq](https://github.com/tahaafarooq)**
+
 ## <a name="Z"> </a>Z
 
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
